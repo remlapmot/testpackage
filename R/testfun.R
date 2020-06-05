@@ -5,4 +5,5 @@
 #'
 #' @examples
 #' Sys.sleep(15)
+#' @export
 testfun <- function(x = 0, y = 0) {x + y}
