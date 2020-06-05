@@ -15,5 +15,7 @@ testfun(x = 0, y = 0)
 A test function
 }
 \examples{
+\donttest{
 Sys.sleep(15)
+}
 }
