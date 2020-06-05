@@ -5,7 +5,7 @@
 #'
 #' @examples
 #' \donttest{
-#' Sys.sleep(15)
+#' Sys.sleep(60)
 #' }
 #' @export
 testfun <- function(x = 0, y = 0) {x + y}
