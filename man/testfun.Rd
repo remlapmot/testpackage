@@ -16,6 +16,6 @@ A test function
 }
 \examples{
 \donttest{
-Sys.sleep(15)
+Sys.sleep(60)
 }
 }
